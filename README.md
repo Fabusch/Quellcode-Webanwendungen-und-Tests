@@ -1,5 +1,8 @@
-Die Datei Students enthält das Angular Backend
-Die Datei JSF-
+Die Datei Student enthält das Angular Backend
+Die Datei JSF-Projekt.zip enthlt den Quellcode der Java-Server-Faces Anwendung
+Die Datei SeleniumTests.zip enhält den Quellcode der Selenium Tests
+
+Die weiteren Dateien gehören zum Angular Frontend und wurden aufgeteilt damit diese zum hochladen geeignet sind.
 
 
 
